@@ -23,7 +23,7 @@ This project reflects the practical responsibilities of a data analyst role, inc
 The MavenFuzzyFactory database consists of six main tables: website_sessions, which records each user visit and its traffic source; website_pageviews, which tracks every page a user views within a session; orders, which stores completed purchases; order_items, which details the individual products within each order along with pricing and costs; order_item_refunds, which captures refunded items and amounts; and products, which contains the product catalogue and related information.
 
 ## SQL analysis & Queries
-#### 1. First, I’d like to show our volume growth. Can you pull the overall session and order volume, trended by quarter, for the life of the business? Since the most recent quarter is incomplete.
+#### 1. First, I’d like to show our volume growth. Can you pull the overall session and order volume, trended by quarters, for the life of the business? Since the most recent quarter is incomplete.
 ```sql
 SELECT
 	YEAR(website_sessions.created_at) AS yr,	-- Year from website session table.
