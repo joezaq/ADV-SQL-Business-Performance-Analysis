@@ -192,7 +192,7 @@ FROM primary_products
 GROUP BY 1
 ```
 
-- *The cross-sell analysis shows that Product 1 (P1) was most frequently cross-sold with Product 4 (P4), recording 933 cross-sales. The cross-sell rate also reflected a consistent pattern, with P1 and P4 showing a rate of **0.208 (21%)**. Similar relationships were observed between P1 and P2 and P3, and vice versa.*
+- *The cross-sell analysis shows that Product 1 (P1) was most frequently cross-sold with Product 4 (P4), recording 933 cross-sales. The cross-sell rate also showed a consistent pattern, with P1 and P4 at **0.208 (21%)**. Similar relationships were observed between P1 and P2 and P3, and vice versa.*
 *Note: The cross-sell matrix is hollow, as a product cannot be cross-sold with itself (e.g., P1 cannot be cross-sold with P1)*
 
 
