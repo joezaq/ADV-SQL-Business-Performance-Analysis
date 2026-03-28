@@ -125,7 +125,7 @@ ORDER BY 1,2
 ```
 - *In Q4 2012, with only one product available, total revenue reached **£30,893**, and margin revenue was **£18,849**. By Q4 2014, following the expansion to four products, total revenue had increased significantly to **£144,823**, while margin revenue rose to **£91,857**, reflecting strong business growth and improved profitability.*
 
-#### 6. Let’s dive deeper into the impact of introducing new products. Please pull monthly sessions to the products page, and show how the % of those sessions clicking through another page has changed over time, along with a view of how conversion from products to placing an order has improved.
+#### 6. Let’s dive deeper into the impact of introducing new products. Please pull monthly sessions to the products page and show how the % of those sessions that clicked through to another page has changed over time, along with a view of how conversion from products to placing an order has improved.
 ```sql
 -- IDENTIFYING THE VIEWS OF THE PRODUCT PAGE
 CREATE TEMPORARY TABLE product_pageviews
