@@ -1,5 +1,5 @@
 # SQL-Business-Performance-Analysis
-This project uses SQL to analyse website and e-commerce performance data.
+This project uses SEQUEL (SQL) to analyse website and e-commerce performance data.
 
 ## Project Overview
 The project focuses on key business metrics, including traffic, click-through rate, cross-sell, conversion rate, revenue, and customer behaviour. It demonstrates how raw transactional and session data can be transformed into actionable insights to support business and operational decision-making.
