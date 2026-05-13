@@ -76,7 +76,7 @@ ORDER BY 1,2
 
 - *By Q4 2014, this ratio had declined to **2:1**, with brand search orders (615), organic search orders (605), and direct type-in traffic rising to 532. This shift indicates reduced reliance on paid advertising and increased strength in organic and direct traffic channels.*
 
-#### 4.  Next, let’s show the overall session-to-order conversion rate trends for those same channels, by quarter. Please also make a note of any periods where we made major improvements or optimisations.
+#### 4.  Next, let’s show the overall session-to-order conversion rate trends for those same channels, by quarter. Please also make note of any periods where we made major improvements or optimisations.
 ```sql
 SELECT
 	YEAR(website_sessions.created_at) as yr,
