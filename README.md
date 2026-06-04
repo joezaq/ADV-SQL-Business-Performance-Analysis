@@ -4,7 +4,7 @@ This project uses SEQUEL (SQL) to analyse website and e-commerce performance dat
 ## Project Overview
 The project focuses on key business metrics, including traffic, click-through rate, cross-sell, conversion rate, revenue, and customer behaviour. It demonstrates how raw transactional and session data can be transformed into actionable insights to support business and operational decision-making.
 
-This project reflects the practical responsibilities of a data analyst role, including data validation, performance reporting, and insight generation. It demonstrates how structured SQL analysis can be used to support stakeholders and inform evidence-based decision-making.
+This project reflects the practical responsibilities of a data analyst role, including data validation, performance reporting, and insight generation. It demonstrates how structured SQL analysis can be used to support stakeholders and inform evidence-based decision-making..
 
 ## Project Objectives
 - Create a structured MySQL database for Mavenfuzzy records.
